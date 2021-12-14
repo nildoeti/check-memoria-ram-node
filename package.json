@@ -1,0 +1,20 @@
+{
+  "name": "check-memoria-ram-node",
+  "version": "1.0.0",
+  "description": "Projeto de um programa que retornar o uso de memória RAM do computador a partir do uso do nodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nildoeti/check-memoria-ram-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nildoeti/check-memoria-ram-node/issues"
+  },
+  "homepage": "https://github.com/nildoeti/check-memoria-ram-node#readme"
+}
